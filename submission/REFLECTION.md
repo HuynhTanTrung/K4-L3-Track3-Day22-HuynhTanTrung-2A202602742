@@ -1,6 +1,6 @@
 # Bài phản tư — Lab 22 (căn chỉnh mô hình bằng DPO/ORPO)
 
-Tên: Huỳnh Tấn Trung Khoá: <A20-K4 / ...> Tier đã chạy: T4 Ngày: 08/10/2026
+Tên: Huỳnh Tấn Trung Khoá: AI20K Build Phase - CTier đã chạy: T4 Ngày: 08/10/2026
 
 Mọi con số dưới đây lấy từ file do notebook sinh ra (adapters/dpo/dpo_metrics.json,
 data/eval/judge_summary.json, data/eval/benchmark_results.json…), không ước lượng bằng mắt.
